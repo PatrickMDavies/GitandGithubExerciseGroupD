@@ -4,3 +4,5 @@
 4. git branch "bug-fix" <br>
 5. git branch <br>
 6. git checkout "bug-fix" <br>
+7. git commit -m "Commit 3"
+8. git add FILE.md <br>
