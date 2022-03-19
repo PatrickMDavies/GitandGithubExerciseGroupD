@@ -14,4 +14,7 @@
 14. git merge main <br>
 14. git add FILE.md <br>
 15. git commit -m "Commit 6" <br>
+16. git log <br>
+17. git branch bug-fix-experimental c7a2ff69d64 <br>
+18. git commit -m "Commit 7" <br>
 
