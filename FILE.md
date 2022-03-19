@@ -21,3 +21,5 @@
 19. git checkout bug-fix-experimental <br>
 20. git add FILE.md <br>
 21. git commit -m "CORRECTED Commit 7" <br>
+22. git add FILE.md <br>
+23. git commit -m "Commit 8" <br>
