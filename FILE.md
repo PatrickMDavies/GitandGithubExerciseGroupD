@@ -9,3 +9,15 @@
 9. git commit -m "Commit 3" <br>
 10. git add FILE.md <br>
 11. git commit -m "Commit 4" <br>
+11. git commit -m "Commit 4" <br>
+12. git add FILE.md <br>
+13. git commit -m NEW commit 4 - words were deleted before <br>
+14. git merge main <br>
+14. git add FILE.md <br>
+15. git commit -m "Commit 6" <br>
+16. git log <br>
+17. git branch bug-fix-experimental c7a2ff69d64 <br>
+18. git commit -m "Commit 7" <br>
+19. git checkout bug-fix-experimental <br>
+20. git add FILE.md <br>
+21. git commit -m "CORRECTED Commit 7" <br>
