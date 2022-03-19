@@ -9,4 +9,9 @@
 9. git commit -m "Commit 3" <br>
 10. git add FILE.md <br>
 11. git commit -m "Commit 4" <br>
+12. git add FILE.md <br>
+13. git commit -m NEW commit 4 - words were deleted before <br>
+14. git merge main <br>
+14. git add FILE.md <br>
+15. git commit -m "Commit 6" <br>
 
